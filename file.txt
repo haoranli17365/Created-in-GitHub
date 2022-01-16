@@ -1,0 +1,1 @@
+Darwin HLis-MacBook-Pro.local 19.6.0 Darwin Kernel Version 19.6.0: Tue Jan 12 22:13:05 PST 2021; root:xnu-6153.141.16~1/RELEASE_X86_64 x86_64
